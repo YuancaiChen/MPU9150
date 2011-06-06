@@ -8,3 +8,5 @@ Demonstrate MPU-9150 basic functionality including parameterizing the register a
 Simplified sketch by among other things breaking out the quaternion sensor fusion filter algorithms to a separate file.
 
 A discussion of the use and limitations of this sensor and sensor fusion in general is found here: https://github.com/kriswiner/MPU-6050/wiki/Affordable-9-DoF-Sensor-Fusion.
+
+test my clone
